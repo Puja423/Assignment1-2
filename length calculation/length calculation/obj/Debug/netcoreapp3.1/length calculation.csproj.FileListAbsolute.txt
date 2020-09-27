@@ -1,0 +1,13 @@
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\bin\Debug\netcoreapp3.1\length calculation.exe
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\bin\Debug\netcoreapp3.1\length calculation.deps.json
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\bin\Debug\netcoreapp3.1\length calculation.runtimeconfig.json
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\bin\Debug\netcoreapp3.1\length calculation.runtimeconfig.dev.json
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\bin\Debug\netcoreapp3.1\length calculation.dll
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\bin\Debug\netcoreapp3.1\length calculation.pdb
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.csprojAssemblyReference.cache
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.AssemblyInfoInputs.cache
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.AssemblyInfo.cs
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.csproj.CoreCompileInputs.cache
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.dll
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.pdb
+G:\Learning Git\Assignments1-2\Assignment1-2\length calculation\length calculation\obj\Debug\netcoreapp3.1\length calculation.genruntimeconfig.cache
