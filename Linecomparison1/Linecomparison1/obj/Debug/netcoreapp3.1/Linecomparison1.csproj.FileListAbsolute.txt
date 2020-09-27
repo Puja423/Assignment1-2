@@ -1,0 +1,13 @@
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\bin\Debug\netcoreapp3.1\Linecomparison1.exe
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\bin\Debug\netcoreapp3.1\Linecomparison1.deps.json
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\bin\Debug\netcoreapp3.1\Linecomparison1.runtimeconfig.json
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\bin\Debug\netcoreapp3.1\Linecomparison1.runtimeconfig.dev.json
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\bin\Debug\netcoreapp3.1\Linecomparison1.dll
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\bin\Debug\netcoreapp3.1\Linecomparison1.pdb
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.csprojAssemblyReference.cache
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.AssemblyInfoInputs.cache
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.AssemblyInfo.cs
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.csproj.CoreCompileInputs.cache
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.dll
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.pdb
+G:\Learning Git\Assignments1-2\Assignment1-2\Linecomparison1\Linecomparison1\obj\Debug\netcoreapp3.1\Linecomparison1.genruntimeconfig.cache
